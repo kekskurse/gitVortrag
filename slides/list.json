@@ -8,5 +8,10 @@
         "zentrale-styteme.html",
         "dezentrale-styteme.html"
     ],
-    "geschichte.html"
+    "geschichte.html",
+    [
+    	"grundlagen.html",
+    	"snap-diff.html",
+    	"snap-snap.html"
+    ]
 ]
