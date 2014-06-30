@@ -23,7 +23,13 @@
         "git-nutzung-2.html",
         "init.html",
         "add.html",
+        "rm.html",
         "commit.html",
+        "lifecycle.html",
+        "status.html",
+        "remote.html",
+        "push.html",
+        "pull.html",
         "clone.html"
     ]
     
