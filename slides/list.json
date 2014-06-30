@@ -10,8 +10,21 @@
     ],
     "geschichte.html",
     [
-    	"grundlagen.html",
-    	"snap-diff.html",
-    	"snap-snap.html"
+        "grundlagen.html",
+        "snap-diff.html",
+        "snap-snap.html"
+    ],
+    [
+        "git-nutzung.html",
+        "git-identitat.html",
+        "difftool.html"
+    ],
+    [
+        "git-nutzung-2.html",
+        "init.html",
+        "add.html",
+        "commit.html",
+        "clone.html"
     ]
+    
 ]
