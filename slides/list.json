@@ -1,5 +1,12 @@
 [
     "index.md",
     "uebersicht.html",
-    "wozu-versionskontrolle.html"
+    "wozu-versionskontrolle.html",
+    [
+        "lokale-zentrale-dezentrale.html",
+        "lokale-styteme.html",
+        "zentrale-styteme.html",
+        "dezentrale-styteme.html"
+    ],
+    "geschichte.html"
 ]
