@@ -46,5 +46,13 @@
         "branches-merge-konflikt-standart.html",
         "branches-merge-konflikt-mergetool.html",
         "branches-merge-konflikt-merge-abschlieen.html"
+    ],
+    [
+        "stash.html",
+        "stash-create.html",
+        "stash-list.html",
+        "stash-applay.html",
+        "stash-drop.html",
+        "stash-branch.html"
     ]
 ]
