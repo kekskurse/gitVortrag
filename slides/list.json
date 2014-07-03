@@ -25,12 +25,26 @@
         "add.html",
         "rm.html",
         "commit.html",
+        "log.html",
         "lifecycle.html",
         "status.html",
         "remote.html",
         "push.html",
         "pull.html",
         "clone.html"
+    ],
+    [
+        "branches.html",
+        "branches-theorie.html",
+        "branches-theorie-merge.html",
+        "branches-create.html",
+        "branches-switch.html",
+        "branches-show.html",
+        "branches-remove.html",
+        "branches-merge.html",
+        "branches-merge-konflikt.html",
+        "branches-merge-konflikt-standart.html",
+        "branches-merge-konflikt-mergetool.html",
+        "branches-merge-konflikt-merge-abschlieen.html"
     ]
-    
 ]
