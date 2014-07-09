@@ -31,7 +31,9 @@
         "remote.html",
         "push.html",
         "pull.html",
-        "clone.html"
+        "clone.html",
+        "aenderungen-ruckgangigmachen.html",
+        "aenderungen-ruckgangigmachen-temporar.html"
     ],
     [
         "branches.html",
@@ -55,7 +57,5 @@
         "stash-drop.html",
         "stash-branch.html"
     ],
-    "quellen.html",
-    "aenderungen-ruckgangigmachen.html",
-    "aenderungen-ruckgangigmachen-temporar.html"
+    "quellen.html"
 ]
