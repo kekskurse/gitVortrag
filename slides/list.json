@@ -55,5 +55,7 @@
         "stash-drop.html",
         "stash-branch.html"
     ],
-    "quellen.html"
+    "quellen.html",
+    "aenderungen-ruckgangigmachen.html",
+    "aenderungen-ruckgangigmachen-temporar.html"
 ]
